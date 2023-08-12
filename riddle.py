@@ -9,7 +9,7 @@ def start_game():
 
 #Displays the instructions
 def display_instructions():
-    print("Welcome to Declima riddle game!")
+    print("Welcome to Declima Riddle Game!")
     print("Instructions:")
     print("You'll be presented with riddles related to climate change.")
     print("You have 3 attempts to guess each riddle correctly.")
