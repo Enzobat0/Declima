@@ -1,7 +1,7 @@
 import random
 
 
-def main():
+def start_game():
     display_instructions()
     riddles = select_riddle()
     play_riddle_game(riddles)
@@ -62,4 +62,4 @@ def play_riddle_game(riddles):
 
 
 if __name__ == '__main__':
-    main()
+    start_game()

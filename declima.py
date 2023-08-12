@@ -8,18 +8,18 @@ def display_instructions():
     print("2. Riddle Game: Answer tricky questions related to climate change.")
     print()
 
-    def main():
-        display_instructions()
-        choice = input("If you want to play the Word Game, press 1. If you want to play the Riddle Game, press 2: ")
+def main():
+    display_instructions()
+    choice = input("If you want to play the Word Game, press 1. If you want to play the Riddle Game, press 2: ")
 
-        if choice == '1':
-            import Word_rearrangement
-            Word_rearrangement.game()
-        elif choice == '2':
-            import riddle
-            riddle.main()
-        else:
-            print("Incorrect input. Please choose either 1 or 2.")
+    if choice == '1':
+        import Word_rearrangement
+        Word_rearrangement.game()
+    elif choice == '2':
+        import riddle
+        riddle.start_game()
+    else:
+        print("Incorrect input. Please choose either 1 or 2.")
 
 if __name__ == '__main__':
     main()
