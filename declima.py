@@ -3,7 +3,7 @@
 def display_instructions():
     print("Welcome to DECLIMA!")
     print("DECLIMA is a game where you have fun while learning about climate change.")
-    print("You can choose between two games:")
+    print("You can choose between two games :")
     print("1. Word Game: Rearrange letters to find a word related to climate change.")
     print("2. Riddle Game: Answer tricky questions related to climate change.")
     print()
