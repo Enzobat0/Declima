@@ -13,3 +13,5 @@ Ocean Acidification: Rrefers to the increase in the Ocean's acidity due to absor
 Carbon capture: Refers to the process of trapping carbon dioxide produced by burning fossil fuels or other chemical or biological processes and storing it in such a way that it is unable to affect the atmosphere, with the aim of mitigating the effects of global warming.
 Ozone depletion: Refers to the reduction in the concentration of ozone in the ozone layer.
 Solar radiation: Solar radiation is the heat that comes from the sun and heats up our planet.
+Precipitation: Precipitation is a measure that takes into account the amount of water that falls from the sky.
+Temperature: Temperature is a measure of how hot or cold an object is.

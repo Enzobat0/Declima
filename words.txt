@@ -12,3 +12,5 @@ Earth
 Carbon capture
 Ozone depletion
 Solar radiation
+Precipitation 
+Temperature
