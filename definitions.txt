@@ -12,3 +12,4 @@ Earth: "Earth" denotes the celestial body that is our home planet within the sol
 Earth: Earth refers to our home planet.
 Ocean Acidification: Rrefers to the increase in the Ocean's acidity due to absorbed carbon dioxide.
 Carbon capture: Refers to the process of trapping carbon dioxide produced by burning fossil fuels or other chemical or biological processes and storing it in such a way that it is unable to affect the atmosphere, with the aim of mitigating the effects of global warming.
+Ozone depletion: Refers to the reduction in the concentration of ozone in the ozone layer.
