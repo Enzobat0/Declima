@@ -15,3 +15,4 @@ Ozone depletion: Refers to the reduction in the concentration of ozone in the oz
 Solar radiation: Solar radiation is the heat that comes from the sun and heats up our planet.
 Precipitation: Precipitation is a measure that takes into account the amount of water that falls from the sky.
 Temperature: Temperature is a measure of how hot or cold an object is.
+Topography: Topography refers to the condition of a place with respect to the earth’s surface.
