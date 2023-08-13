@@ -16,3 +16,4 @@ Precipitation
 Temperature
 Topography
 Latitude
+Elevation
