@@ -11,3 +11,4 @@ Afforestation
 Earth
 Carbon capture
 Ozone depletion
+Solar radiation
