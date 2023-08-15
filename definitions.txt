@@ -19,3 +19,4 @@ Topography: Topography refers to the condition of a place with respect to the ea
 Latitude: Latitude is the angle between the equator and the north pole. Latitude influences the amount of sunlight that hits the earth
 Elevation: Elevation (or altitude) is the vertical distance between the surface of the Earth and the centre of the Earth
 Heat wave: A prolonged period of excessive heat, often combined with excessive humidity
+Hydrology: This is the scientific study of the movement and distribution of water on Earth
